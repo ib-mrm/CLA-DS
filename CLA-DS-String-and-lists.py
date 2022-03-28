@@ -13,4 +13,4 @@ for x in L:
 
 
 #Ex 3
-print(L.__contains__(57))
+print(57 in L)
